@@ -37,7 +37,7 @@ async function fetchData(urlApi) { //Siempre async antes de function
         </div>
         `).slice(0,5).join('')}      
         `;
-        content.innerHTML = view;
+        content.innerHTML = view; //innerHTML es igual a la vista que se ha creado e itera con el método map y devuelve un nuevo arreglo con los elementos que queremos obtener como el título, la descripción, la imagen miniatura de la API
     }catch (error) {
         console.log(error);
     }
