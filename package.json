@@ -1,0 +1,20 @@
+{
+  "name": "platzi-async-landing",
+  "version": "1.0.0",
+  "description": "Proyecto del curso de sincronismo en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryshop73/Platzi-async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryshop73/Platzi-async-landing/issues"
+  },
+  "homepage": "https://github.com/henryshop73/Platzi-async-landing#readme"
+}
